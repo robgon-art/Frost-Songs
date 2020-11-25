@@ -1,3 +1,23 @@
+Devotion
+
+The heart can think of no devotion
+Greater than being shore to the ocean–
+Holding the curve of one position,
+Counting an endless repetition.
+
+----
+Dust of Snow
+
+The way a crow
+Shook down on me
+The dust of snow
+From a hemlock tree
+Has given my heart
+A change of mood
+And saved some part
+Of a day I had rued.
+
+----
 Fire and Ice
 
 Some say the world will end in fire,
@@ -11,6 +31,54 @@ Is also great
 And would suffice.
 
 ----
+Fireflies in the Garden
+
+Here come real stars to fill the upper skies,
+And here on earth come emulating flies,
+That though they never equal stars in size,
+(And they were never really stars at heart)
+Achieve at times a very star-like start.
+Only, of course, they can’t sustain the part.
+
+----
+Hannibal
+
+Was there even a cause too lost,
+Ever a cause that was lost too long,
+Or that showed with the lapse of time to vain
+For the generous tears of youth and song?
+
+----
+Immigrants
+
+No ship of all that under sail or steam
+Have gathered people to us more and more
+But Pilgrim-manned the Mayflower in a dream
+Has been her anxious convoy in to shore.
+
+----
+Lodged
+
+The rain to the wind said,
+‘You push and I’ll pelt.’
+They so smote the garden bed
+That the flowers actually knelt,
+And lay lodged–though not dead.
+I know how the flowers felt.
+
+----
+A Minor Bird
+
+I have wished a bird would fly away,
+And not sing by my house all day;
+Have clapped my hands at him from the door
+When it seemed as if I could bear no more.
+The fault must partly have been in me.
+The bird was not to blame for his key.
+And of course there must be something wrong
+In wanting to silence any song.
+
+----
 Nothing Gold Can Stay
 
 Nature’s first green is gold,
@@ -21,51 +89,6 @@ Then leaf subsides to leaf.
 So Eden sank to grief,
 So dawn goes down to day.
 Nothing gold can stay.
-
-----
-The Road Not Taken
-
-Two roads diverged in a yellow wood,
-And sorry I could not travel both
-And be one traveler, long I stood
-And looked down one as far as I could
-To where it bent in the undergrowth;
-Then took the other, as just as fair,
-And having perhaps the better claim
-Because it was grassy and wanted wear,
-Though as for that the passing there
-Had worn them really about the same,
-And both that morning equally lay
-In leaves no step had trodden black.
-Oh, I marked the first for another day!
-Yet knowing how way leads on to way
-I doubted if I should ever come back.
-I shall be telling this with a sigh
-Somewhere ages and ages hence:
-Two roads diverged in a wood, and I,
-I took the one less traveled by,
-And that has made all the difference.
-
----
-Stopping by Woods on a Snowy Evening
-
-Whose woods these are I think I know.
-His house is in the village, though;
-He will not see me stopping here
-To watch his woods fill up with snow.
-My little horse must think it queer
-To stop without a farmhouse near
-Between the woods and frozen lake
-The darkest evening of the year.
-He gives his harness bells a shake
-To ask if there is some mistake.
-The only other sound’s the sweep
-Of easy wind and downy flake.
-The woods are lovely, dark, and deep,
-But I have promises to keep,
-And miles to go before I sleep,
-And miles to go before I sleep.
-
 
 ----
 Now Close the Windows
@@ -92,32 +115,6 @@ The news of a day I’ve forgotten–
 If I ever read it.
 
 ----
-A Time to Talk
-
-When a friend calls to me from the road
-And slows his horse to a meaning walk,
-I don’t stand still and look around
-On all the hills I haven’t hoed,
-And shout from where I am, ‘What is it?’
-No, not as there is a time talk.
-I thrust my hoe in the mellow ground,
-Blade-end up and five feet tall,
-And plod: I go up to the stone wall
-For a friendly visit.
-
-----
-Dust of Snow
-
-The way a crow
-Shook down on me
-The dust of snow
-From a hemlock tree
-Has given my heart
-A change of mood
-And saved some part
-Of a day I had rued.
-
-----
 Plowmen
 
 A plow, they say, to plow the snow.
@@ -126,6 +123,30 @@ Unless in bitterness to mock
 At having cultivated rock.
 
 ----
+The Road Not Taken
+
+Two roads diverged in a yellow wood,
+And sorry I could not travel both
+And be one traveler, long I stood
+And looked down one as far as I could
+To where it bent in the undergrowth;
+Then took the other, as just as fair,
+And having perhaps the better claim
+Because it was grassy and wanted wear,
+Though as for that the passing there
+Had worn them really about the same,
+And both that morning equally lay
+In leaves no step had trodden black.
+Oh, I marked the first for another day!
+Yet knowing how way leads on to way
+I doubted if I should ever come back.
+I shall be telling this with a sigh
+Somewhere ages and ages hence:
+Two roads diverged in a wood, and I,
+I took the one less traveled by,
+And that has made all the difference.
+
+---
 The Rose Family
 
 The rose is a rose,
@@ -140,59 +161,37 @@ You, of course, are a rose–
 But were always a rose.
 
 ----
-Fireflies in the Garden
+Stopping by Woods on a Snowy Evening
 
-Here come real stars to fill the upper skies,
-And here on earth come emulating flies,
-That though they never equal stars in size,
-(And they were never really stars at heart)
-Achieve at times a very star-like start.
-Only, of course, they can’t sustain the part.
-
-----
-Devotion
-
-The heart can think of no devotion
-Greater than being shore to the ocean–
-Holding the curve of one position,
-Counting an endless repetition.
-
-----
-Lodged
-
-The rain to the wind said,
-‘You push and I’ll pelt.’
-They so smote the garden bed
-That the flowers actually knelt,
-And lay lodged–though not dead.
-I know how the flowers felt.
+Whose woods these are I think I know.
+His house is in the village, though;
+He will not see me stopping here
+To watch his woods fill up with snow.
+My little horse must think it queer
+To stop without a farmhouse near
+Between the woods and frozen lake
+The darkest evening of the year.
+He gives his harness bells a shake
+To ask if there is some mistake.
+The only other sound’s the sweep
+Of easy wind and downy flake.
+The woods are lovely, dark, and deep,
+But I have promises to keep,
+And miles to go before I sleep,
+And miles to go before I sleep.
 
 ----
-A Minor Bird
+A Time to Talk
 
-I have wished a bird would fly away,
-And not sing by my house all day;
-Have clapped my hands at him from the door
-When it seemed as if I could bear no more.
-The fault must partly have been in me.
-The bird was not to blame for his key.
-And of course there must be something wrong
-In wanting to silence any song.
-
-----
-Immigrants
-
-No ship of all that under sail or steam
-Have gathered people to us more and more
-But Pilgrim-manned the Mayflower in a dream
-Has been her anxious convoy in to shore.
-
-----
-Hannibal
-
-Was there even a cause too lost,
-Ever a cause that was lost too long,
-Or that showed with the lapse of time to vain
-For the generous tears of youth and song?
+When a friend calls to me from the road
+And slows his horse to a meaning walk,
+I don’t stand still and look around
+On all the hills I haven’t hoed,
+And shout from where I am, ‘What is it?’
+No, not as there is a time talk.
+I thrust my hoe in the mellow ground,
+Blade-end up and five feet tall,
+And plod: I go up to the stone wall
+For a friendly visit.
 
 ----
